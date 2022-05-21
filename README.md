@@ -1,2 +1,2 @@
 # Workplace
-Workplace is OpenSource Project
+Workplace OS is OpenSource Project
